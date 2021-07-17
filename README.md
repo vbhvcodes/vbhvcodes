@@ -1,5 +1,5 @@
 
-👋 Hi, I’m @vaibhav-sharma0105
+👋 Hi, I’m @vbhvcodes
 👀 I’m interested in active-learning and using Comupter Science and any related fields for solving problems.
 🌱 I’m currently learning Reactjs, Python, Data Science and re-visiting core concepts of CS.
 📫 Reach me on vbhvcodes@gmail.com
